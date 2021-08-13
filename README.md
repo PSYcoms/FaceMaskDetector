@@ -1,4 +1,8 @@
 # FaceMaskDetector
+This is a machine learning project that is a real time face mask detector using Python, OpenCV, Keras, TF, numpy and matplotlib.
+
+
+
 Technical/ Software Requirements :
 Tensorflow >=1.15.2
 Keras ==2.3.1
